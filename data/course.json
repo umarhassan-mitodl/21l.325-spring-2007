@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Film and Video"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Periodic Literature"
+    ]
+  ],
+  "legacy_uid": "f338fba9-fbe7-17e6-065b-6418eaddbbb7",
+  "instructors": {
+    "content": [
+      "fd72ba8e-e137-478a-c070-54d1aa95b7be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5243e6d3-01c6-8d2e-932b-cb015228129d",
+    "website": "21l-325-small-wonders-staying-alive-spring-2007"
+  },
+  "course_title": "Small Wonders: Staying Alive",
+  "course_description": "This course closely examines a coherent set of short texts and/or visual works. The selections may be the shorter works of one or more authors (poems, short stories or novellas), or short films and other visual media. Additionally, we will focus on formal issues and thematic meditations around the title of the course \"Staying Alive.\" Content varies from semester to semester.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.325",
+  "course_image_thumbnail": {
+    "content": "1223b6ab-11e8-a57e-08a7-627cc0fb04f0",
+    "website": "21l-325-small-wonders-staying-alive-spring-2007"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "2fa6f7af-094c-4526-a194-bb1f9b60024e",
+  "site_short_id": "21l.325-spring-2007",
+  "site_url_path": "courses/21l-325-small-wonders-staying-alive-spring-2007",
+  "title": "Course Metadata"
+}
